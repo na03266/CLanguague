@@ -24,5 +24,5 @@ my_new_car = Car('audi', 'a4') # car 클래스의 인스턴스 생성
 
 print(my_new_car.get_descriptive_name()) # 자동차 정보 출력
 
-my_new_car.update_odometer(23) # 주행거리 업데이트
+my_new_car.update_odometer(20) # 주행거리 업데이트
 my_new_car.read_odometer() # 주행거리 출력
